@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projetos-react/static/css/main.99b4fce4.css",
+    "main.js": "/projetos-react/static/js/main.dbaddb0b.js",
+    "static/js/787.a96142b5.chunk.js": "/projetos-react/static/js/787.a96142b5.chunk.js",
+    "static/media/icon_me.jpg": "/projetos-react/static/media/icon_me.b8c7314f343e2d94dc8e.jpg",
+    "static/media/selenium-icon.png": "/projetos-react/static/media/selenium-icon.8acd00a91ebc15e2633e.png",
+    "static/media/banner_image.JPG": "/projetos-react/static/media/banner_image.61503b0da37ec64a8b6b.JPG",
+    "static/media/personal-icon.png": "/projetos-react/static/media/personal-icon.6f678b05521261910525.png",
+    "static/media/academic-icon.png": "/projetos-react/static/media/academic-icon.8f4259f975ce9061c201.png",
+    "static/media/skill-icon.png": "/projetos-react/static/media/skill-icon.1170fc3cd95e0c300412.png",
+    "static/media/job-icon.png": "/projetos-react/static/media/job-icon.419f4da4f5a7ed7df19d.png",
+    "static/media/node-icon.png": "/projetos-react/static/media/node-icon.1db7190f052f6e145fd4.png",
+    "static/media/typescript-icon.png": "/projetos-react/static/media/typescript-icon.af108db04a54d784da9b.png",
+    "index.html": "/projetos-react/index.html",
+    "main.99b4fce4.css.map": "/projetos-react/static/css/main.99b4fce4.css.map",
+    "main.dbaddb0b.js.map": "/projetos-react/static/js/main.dbaddb0b.js.map",
+    "787.a96142b5.chunk.js.map": "/projetos-react/static/js/787.a96142b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b4fce4.css",
+    "static/js/main.dbaddb0b.js"
+  ]
+}
